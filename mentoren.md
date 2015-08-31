@@ -6,3 +6,4 @@ Mentoren
 * Silvia Kunz
 * Stephan Siewert
 * Annika Gambke
+* Maximilian Fricke
