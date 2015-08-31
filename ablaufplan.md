@@ -7,6 +7,8 @@ Erklärung der Abkürzungen für die Orte:
 
 **Philomensa** *(Philosophenweg)*: Mensa am Philosophenweg
 
+**Abbemensa**  *(Ernst-Abbe-Platz 8)*: Mensa Ernst-Abbe-Platz
+
 **HHW** *(Helmholtzweg)*: Dort findet man sowohl das **gelbe Haus**, das **rote Haus** als auch den **Jenoptik-Hörsaal**.
 
 **MWP** *(Max-Wien-Platz 1)*: Das Hauptgebäude der Fakultät.
@@ -57,8 +59,9 @@ Materialwissenschaftler
 
 | Von	| Bis	| Ort			| Name						|
 |-------|-------|-----------------------|-----------------------------------------------|
-| 09:00	| 10:00 | HS1			| Begrüßung durch den Dekan			|
-| 10:00	| 10:30	| HS1			| Begrüßung durch den FSR			|
+| 09:00	| 09:30 | HS1			| Begrüßung durch den Dekan		|
+| 09:30	| 10:00	| HS1			| Begrüßung durch den FSR			|
+| 10:00 | 10:30 | HS 1    | Begrüßung durch Jung-DGM
 | 10:30	| 11:30 | HS1			| Vorlesung Experimentalphysik			|
 | 11:30	| 13:30 | Philomensa		| Mittagessen					|
 | 13:30 | 14:30 | OSIM L		| Studienordnung und Einführungsvortrag (Müller)|
@@ -70,7 +73,7 @@ Materialwissenschaftler
 
 | Von 	| Bis 	| Ort			| Name				|
 |-------|-------|-----------------------|-------------------------------|
-| 09:30 | 10:00 | MWP SR3		| Begrüßung Junge DGM		|
+| 09:30 | 10:00 | Abbemensa		| Gemeinsames Frühstück		|
 | 10:00 | 11:00 | OSIM F		| Vortrag OSI			|
 | 11:00 | 12:30 | OSIM F		| Institutsführung OSI		|
 | 12:30 | 14:00 | Philomensa		| Mittagessen			|
