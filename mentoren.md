@@ -7,3 +7,5 @@ Mentoren
 * Stephan Siewert
 * Annika Gambke
 * Maximilian Fricke
+* Maximilian Keller
+* Wilhelm Horn
