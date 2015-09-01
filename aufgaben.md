@@ -16,7 +16,7 @@ Institutsführungen
 | -			| -							| Tieftemperatur (Nawrodt)	|
 | -			| - 							| IFK				|
 | -			| -							| IOQ (JETI und Polaris)	|
-| -			| -							| IAP				|
-| - 			| -							| IPHT				|
+| Richard		| -							| IAP				|
+| Richard 		| -							| IPHT				|
 | -			| -			                		| IAO				|
-| -			| - 							| IOF				|
+| Richard		| - 							| IOF				|
