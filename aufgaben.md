@@ -13,10 +13,10 @@ Institutsführungen
 
 | Verantwortlicher	| Status						| Institut 			|
 |-----------------------|-------------------------------------------------------|-------------------------------|
-| -			| -							| Tieftemperatur (Nawrodt)	|
-| -			| - 							| IFK				|
-| -			| -							| IOQ (JETI und Polaris)	|
-| Richard		| -							| IAP				|
-| Richard 		| -							| IPHT				|
-| -			| -			                		| IAO				|
-| Richard		| - 							| IOF				|
+| Eric			| -							| Tieftemperatur (Nawrodt)	|
+| Eric			| - 							| IFK				|
+| Richard			| -							| IOQ (JETI und Polaris)	|
+| Eddie		| -							| IAP				|
+| Eddie 		| -							| IPHT				|
+| Richard			| -			                		| IAO				|
+| Eddie		| - 							| IOF				|
