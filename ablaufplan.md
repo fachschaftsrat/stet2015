@@ -55,7 +55,7 @@ Physiker
 Materialwissenschaftler
 -----------------------
 
-### Tag 1 (01.10.14)
+### Tag 1 (01.10.15)
 
 | Von	| Bis	| Ort			| Name						|
 |-------|-------|-----------------------|-----------------------------------------------|
@@ -69,7 +69,7 @@ Materialwissenschaftler
 | 16:30 | 17:00 | Stadt			| Transfer zum MWP				|
 | 17:00 | offen | Freifläche		| Kennenlernen + Grillen/Braten 		|
 
-### Tag 2 (02.10.14)
+### Tag 2 (02.10.15)
 
 | Von 	| Bis 	| Ort			| Name				|
 |-------|-------|-----------------------|-------------------------------|
