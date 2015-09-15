@@ -37,8 +37,7 @@ Physiker
 | 10:30	| 11:30 | HS1			| Vorlesung Experimentalphysik	|
 | 11:30	| 12:00 | Foyer HS1 		| Aufteilung Gruppen		|
 | 12:00	| 13:00 | Philomensa		| Mittagessen			|
-| 13:00 | 14:00 | IFK                   | IFK Führung                   |
-| 14:00	| 17:00 | HHW			| Institutsführungen + Bibo	|
+| 13:00	| 17:00 | HHW			| Institutsführungen + Bibo	|
 | 17:00 | offen	| Freifläche		| Kennenlernen + Grillen/Braten	|
 
 ### Tag 2 (02.10.15)
